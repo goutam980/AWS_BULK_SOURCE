@@ -1,0 +1,19 @@
+{
+    "registry_company_name": "Idea Cellular Limited",
+    "registry_city": "Jabalpur",
+    "registry_state": "MP",
+    "region_name": "Madhya Pradesh",
+    "registry_zip_code": "482001",
+    "registry_area_code": null,
+    "registry_dma_code": null,
+    "registry_country": "India",
+    "registry_country_code": "IN",
+    "registry_country_code3": null,
+    "registry_latitude": 23.17,
+    "registry_longitude": 79.96,
+    "isp": false,
+    "information_level": "Basic",
+    "audience": "Education",
+    "audience_segment": "",
+    "access_type": "identified_non_business"
+}

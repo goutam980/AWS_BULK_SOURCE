@@ -1,0 +1,5 @@
+.vscode/
+.idea/
+**/*.csv
+**/*.pyc
+**/__pycache__

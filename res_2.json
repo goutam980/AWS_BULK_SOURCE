@@ -1,0 +1,30 @@
+{
+    "meta": {
+        "count": 2
+    },
+    "links": {
+        "first": "/api/rbac/v1/principals/?limit=0&offset=0",
+        "next": "/api/rbac/v1/principals/?limit=0&offset=0",
+        "previous": "/api/rbac/v1/principals/?limit=0&offset=0",
+        "last": null
+    },
+    "data": [
+        {
+            "username": "goutam61",
+            "email": "goutamtiwari61@gmail.com",
+            "first_name": "Goutam",
+            "last_name": "Tiwari",
+            "is_active": true,
+            "is_org_admin": true
+        },
+        {
+            "username": "goutam611",
+            "email": "goutamtiwari61@gmail.com",
+            "first_name": "Goutam",
+            "last_name": "Tiwari",
+            "is_active": true,
+            "is_org_admin": false
+        }
+    ]
+}
+
